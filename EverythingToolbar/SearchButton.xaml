@@ -10,7 +10,7 @@
         PreviewMouseDown="OnMouseDown"
         IsVisibleChanged="OnIsVisibleChanged"
         Style="{DynamicResource SearchButtonStyle}"
-        ToolTip="Search with Everything">
+        ToolTip="Ara">
     <Button.Resources>
         <Style x:Key="SearchButtonStyle" TargetType="{x:Type Button}">
             <Setter Property="Template">
